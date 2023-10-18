@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @robinLudan
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning linux, laravel, livewire, MYSQL, API's
+- 💞️ I’m looking to collaborate on web development and cybersec
